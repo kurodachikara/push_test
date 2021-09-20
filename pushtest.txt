@@ -1,0 +1,2 @@
+push test!+
+$ git add pushtest.txt
